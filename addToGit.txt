@@ -1,0 +1,14 @@
+These are the command in serial.
+1) git init
+2) git remote add origin (link)
+3) git remote -v
+4) git add .
+here "." is used to upload all files at once. You can use the file name instead of the dot.
+
+5) git commit -m ""
+ If you are asked to enter your identity then use these commands:
+            =)git config --global user.email "enter your Github email id"
+            =)git config --global user.name "enter a Github user name"
+ then again type step 5.
+
+6) git push -u origin master
